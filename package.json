@@ -34,7 +34,7 @@
   },
   "name": "key-did-provider-ed25519",
   "author": "Joel Thorstensson",
-  "module": "./dist/index.js",
+  "module": "dist/key-did-provider-ed25519.esm.js",
   "size-limit": [
     {
       "path": "dist/index.js",
